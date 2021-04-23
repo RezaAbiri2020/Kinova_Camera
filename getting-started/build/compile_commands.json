@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/reza/Repositories/Kinova_Camera/getting-started/build",
+  "command": "/usr/bin/c++   -I/home/reza/Repositories/Kinova_Camera/getting-started/rs-getting-started   -std=c++11   -o CMakeFiles/rs-getting-started.dir/rs-getting-started.cpp.o -c /home/reza/Repositories/Kinova_Camera/getting-started/rs-getting-started.cpp",
+  "file": "/home/reza/Repositories/Kinova_Camera/getting-started/rs-getting-started.cpp"
+}
+]

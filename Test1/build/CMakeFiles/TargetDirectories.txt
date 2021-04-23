@@ -1,0 +1,7 @@
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/install/strip.dir
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/edit_cache.dir
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/Test1.dir
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/rebuild_cache.dir
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/list_install_components.dir
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/install/local.dir
+/home/reza/Repositories/Kinova_Camera/Test1/build/CMakeFiles/install.dir

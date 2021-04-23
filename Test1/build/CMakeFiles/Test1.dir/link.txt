@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/Test1.dir/Test1.cpp.o  -o Test1 -Wl,-rpath,/usr/local/lib: /usr/local/lib/librealsense2.so 

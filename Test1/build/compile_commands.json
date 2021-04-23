@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/reza/Repositories/Kinova_Camera/Test1/build",
+  "command": "/usr/bin/c++   -I/home/reza/Repositories/Kinova_Camera/Test1/Test1   -std=c++11   -o CMakeFiles/Test1.dir/Test1.cpp.o -c /home/reza/Repositories/Kinova_Camera/Test1/Test1.cpp",
+  "file": "/home/reza/Repositories/Kinova_Camera/Test1/Test1.cpp"
+}
+]

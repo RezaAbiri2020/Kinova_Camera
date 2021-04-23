@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/reza/Repositories/Kinova_Camera/getting-started/rs-getting-started.cpp
+iostream
+-
+librealsense2/rs.hpp
+-
+
