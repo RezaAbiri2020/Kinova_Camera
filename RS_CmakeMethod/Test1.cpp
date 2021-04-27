@@ -25,14 +25,14 @@ int main(int argc, char * argv[]) try
         float height = depth.get_height();
 
         // print the values
-        std::cout << "the width value of depth is: " << width << std::endl;
-        std::cout << "the height value of depth is: " << height << std::endl;
+        std::cout << "the width value of depth is: " << width <<   std::endl; //" \r \n"; //
+        std::cout << "the height value of depth is: " << height << std::endl; //" \r \n";//
 
         // Query the distance from the camera to the object in the center of the image
         float dist_to_center = depth.get_distance(width / 2, height / 2);
 
         // Print the distance 
-        std::cout << "The camera is facing an object " << dist_to_center << " meters away         \r";
+        std::cout << "The camera is facing an object meters away: " << dist_to_center << std::endl;
     }
 
     return EXIT_SUCCESS;
